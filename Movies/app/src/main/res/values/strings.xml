@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="genre_title_action">Action</string>
+    <string name="genre_title_comedy">Comedy</string>
+    <string name="genre_title_drama">Drama</string>
+    <string name="genre_title_fantasy">Fantasy</string>
+    <string name="genre_title_family">Family</string>
+    <string name="genre_title_horror">Horror</string>
+    <string name="genre_title_romance">Romance</string>
+    <string name="genre_title_sci_fi">Sci-Fi</string>
+    <string name="dialog_ok_button_text">Ok</string>
+    <string name="dialog_dismiss_button_text">Close</string>
+    <string name="textfield_label_title">Title</string>
+    <string name="textfield_label_description">Description</string>
+    <string name="app_bar_title_add_movie">Add movie</string>
+    <string name="textfield_label_year">Year</string>
+    <string name="textfield_label_length">Length</string>
+    <string name="app_bar_title_edit_movie">Edit movie</string>
+    <string name="text_empty_movie_list">You haven\'t added any movies yet.</string>
+    <string name="text_your_movie_list">Movies  for you</string>
+    <string name="app_bar_title_sign_up">Sign up</string>
+    <string name="textfield_label_email">Email</string>
+    <string name="textfield_label_password">Password</string>
+    <string name="textfield_label_confirm_password">Confirm password</string>
+    <string name="button_text_sign_up">Sign up</string>
+    <string name="button_text_sign_in">Sign In</string>
+    <string name="button_text_no_account">I don\'t have an account yet.</string>
+    <string name="textfield_label_length_min">Length (min)</string>
+    <string name="some_error_message">Error</string>
+    <string name="email_error_message">Invalid e-mail address.</string>
+    <string name="password_error_message">Please enter your password.</string>
+    <string name="no_match_password_error_message">Passwords do not match. Please try again.</string>
+    <string name="title_error_message">Don\'t forget the movie\'s title.</string>
+    <string name="year_error_message">The year provided is not valid.</string>
+    <string name="length_error_message">The length provided is not valid.</string>
+</resources>
